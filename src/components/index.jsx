@@ -3,3 +3,7 @@ export * from './Footer/Footer';
 export * from './Button/Button';
 export * from './Modal/Modal';
 export * from './HeroSlider/HeroSlider';
+export * from './MovieList/MovieList';
+export * from './MovieCard/MovieCard';
+export * from './PageHeader/PageHeader';
+export * from './MovieGrid/MovieGrid';
